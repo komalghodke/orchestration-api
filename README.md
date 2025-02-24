@@ -36,9 +36,8 @@ A simple orchestration API to load user data from an external dataset into an in
  
 ## STEPS TO RUN:
 1] Build the Project:-
-```bash mvn clean install
-2] Run the Application:-
-```bash mvn spring-boot:run
+``` mvn clean install ```
+2] Run the Application:- ``` mvn spring-boot:run ```
 3] Test the API Endpoints
 You can use tools like Postman, curl, or your web browser to interact with your API.
 Example Endpoints:
